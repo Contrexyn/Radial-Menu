@@ -1,2 +1,2 @@
 # Radial-Menu
-Simple Radial Meni
+Simple Radial Menu
